@@ -1,0 +1,29 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+
+body{
+    background-color: darkslategrey;
+}
+
+
+h2{
+    text-align: center;
+    color:aliceblue;
+    font-size: 50px;
+    text-transform: capitalize;
+}
+
+
+p,a{
+    color:antiquewhite;
+}
+
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
